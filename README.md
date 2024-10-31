@@ -1,4 +1,3 @@
-<img src="[https://stock.adobe.com/images/programming-banner-coding-best-programming-languages/194010093](https://www.pexels.com/video/a-computer-monitor-flashing-digital-information-2887463/)" alt="Programming Banner" />
 <h1 align="center">Hi 👋, I'm ANSH</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
